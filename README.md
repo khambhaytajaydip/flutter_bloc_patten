@@ -1,4 +1,4 @@
-# flutter_bloc_patten
+# flutter_bloc_pattern
 Simple demo app using flutter bloc pattern 
 
 ***
