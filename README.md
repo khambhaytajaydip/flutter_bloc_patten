@@ -29,7 +29,7 @@ class HomeBloc extends BaseBloc<BlockInt> {
 final homeBloc = HomeBloc();
 ```
 ***
-> ### `MyHomePage.dart`  click on increment login 
+> ### `MyHomePage.dart`  click to increment int
 ```
  floatingActionButton: FloatingActionButton(
         onPressed: ()=> homeBloc.incrementValue(_counter) ,
@@ -38,7 +38,7 @@ final homeBloc = HomeBloc();
       ),
 ```
 ***
-> ### `MyHomePage.dart` update data 
+> ### `MyHomePage.dart` update data on Text
 ```
   StreamBuilder<BlockInt>(
               stream: homeBloc.getIncrementData,
