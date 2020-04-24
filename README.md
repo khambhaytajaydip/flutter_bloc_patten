@@ -1,5 +1,5 @@
 # flutter_bloc_patten
-Simple demo app using bloc pattern 
+Simple demo app using flutter bloc pattern 
 
 ***
 > ### `pubspec.yaml`
